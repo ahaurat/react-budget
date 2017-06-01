@@ -1,0 +1,7 @@
+export App from './App'
+export Dashboard from './Dashboard'
+export Fooboard from './Fooboard'
+export Inbox from './Inbox'
+export Login from './Login'
+export Register from './Register'
+export Test from './Test'
